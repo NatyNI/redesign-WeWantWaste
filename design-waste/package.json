@@ -2,7 +2,7 @@
   "name": "design-waste",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://natyni.github.io/redesign-wewantwaste",
+  "homepage": "https://natyni.github.io/redesign-WeWantWaste",
   "type": "module",
   "scripts": {
     "dev": "vite",
