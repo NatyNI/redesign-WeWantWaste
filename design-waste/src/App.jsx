@@ -40,8 +40,8 @@ function App() {
       <div class="bar-content">
         <p className='bar-text'>
           <span className='price_bottom'>£{dataContainer.price_before_vat}</span><br/> 
-          <span >{dataContainer.size}  Yard Skip</span> <span>➢</span> <span></span>
-          <span >{dataContainer.hire_period_days} days</span> rent
+          <span className='detail_bottom'>{dataContainer.size}  Yard Skip</span> <span>➢</span> <span></span>
+          <span className='detail_bottom'>{dataContainer.hire_period_days} days rent</span> 
         </p>
         <div class="bar-buttons">
           <button>Back</button>
