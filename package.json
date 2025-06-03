@@ -1,5 +1,5 @@
 {
-  "name": "design-waste",
+  "name": "redesign-wewantwaste",
   "private": true,
   "version": "0.0.0",
   "homepage": "https://natyni.github.io/redesign-WeWantWaste",
@@ -11,6 +11,7 @@
     "preview": "vite preview",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
+
   },
   "dependencies": {
     "react": "^19.1.0",
